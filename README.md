@@ -1,1 +1,1 @@
-# git-essential
+# git-essentials
